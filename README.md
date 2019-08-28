@@ -1,2 +1,2 @@
 # storage
-Storage private
+Storage private for images
